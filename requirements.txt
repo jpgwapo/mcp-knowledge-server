@@ -1,0 +1,2 @@
+# Stay on the FastMCP-compatible SDK line; review major migrations separately.
+mcp==1.30.0
